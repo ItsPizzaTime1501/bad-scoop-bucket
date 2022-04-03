@@ -11,7 +11,7 @@
     "bin": [
         [
             "ytarchive-raw-go-windows-amd64.exe",
-            "ytarchive-raw-go.exe"
+            "ytarchive-raw-go"
         ]
     ],
     "checkver": {
