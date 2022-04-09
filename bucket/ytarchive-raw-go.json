@@ -1,7 +1,8 @@
 {
     "version": "1.7.1",
-    "description": "Go port of a garbage Youtube livestream downloader ",
+    "description": "Go port of a garbage Youtube livestream downloader",
     "homepage": "https://github.com/HoloArchivists/ytarchive-raw-go",
+    "license": "None",
     "architecture": {
         "64bit": {
             "url": "https://github.com/HoloArchivists/ytarchive-raw-go/releases/download/v1.7.1/ytarchive-raw-go-windows-amd64.exe",
