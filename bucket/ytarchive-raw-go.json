@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/HoloArchivists/ytarchive-raw-go/releases/download/$version/ytarchive-raw-go-windows-amd64.exe"
+                "url": "https://github.com/HoloArchivists/ytarchive-raw-go/releases/download/v$version/ytarchive-raw-go-windows-amd64.exe"
             }
         }
     }
