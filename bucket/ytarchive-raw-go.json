@@ -1,12 +1,12 @@
 {
-    "version": "1.7.1",
+    "version": "1.7.2",
     "description": "Go port of a garbage Youtube livestream downloader",
     "homepage": "https://github.com/HoloArchivists/ytarchive-raw-go",
     "license": "None",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/HoloArchivists/ytarchive-raw-go/releases/download/v1.7.1/ytarchive-raw-go-windows-amd64.exe",
-            "hash": "E729D636606E41BF2F40D81192EAAF790D82BA3ACDC843AAA57668A2A152F5E2"
+            "url": "https://github.com/HoloArchivists/ytarchive-raw-go/releases/download/v1.7.2/ytarchive-raw-go-windows-amd64.exe",
+            "hash": "2472fff52cfaad57dd23c9f9592ec119d4b3952be62c7298a0dc78b47f4e074a"
         }
     },
     "bin": [
